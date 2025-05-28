@@ -1,0 +1,13 @@
+{
+  "name": "number-input",
+  "version": "1.0.0",
+  "description": "Simple number input interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mqtt": "^5.13.0"
+  }
+}
